@@ -1,2 +1,25 @@
-# 63b602d0-llm-fine-tuning-training-soc
-Stop wasting hours crafting social media posts about your LLM fine-tuning milestones. Turn your technical breakthroughs into scroll-stopping content with a template pack that writes itself.  This pack solves the pain of translating complex LLM training updates into engaging social media posts. Instead of staring at a blank screen, you get proven, e
+# LLM Fine-Tuning & Training Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe6oH7r1bUE8FG8nGd0n2r)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe6oH7r1bUE8FG8nGd0n2r)
+
